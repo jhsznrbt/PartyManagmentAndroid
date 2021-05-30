@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".aboutus">
+
+    <Button
+        android:id="@+id/vissza"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vissza"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.846"
+        android:onClick="close_int"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A Ceglédi Szakképzési Centrum az iskolarendszerű oktatás mellett kiemelt feladatának tartja a tanulás lehetőségének egész életpályára való kiterjesztését, melynek egyik formája a felnőttek igényeire szabott, a feltételeknek megfelelve továbbra is ingyenesen elérhető SZAKMAI OKTATÁS és SZAKMAI KÉPZÉS. Célunk iskoláink környezetében olyan magas színvonalú, gyakorlatias képzés felkínálása, mely korszerű, a továbbtanulást, munkavállalást, illetve az egyéni vállalkozást elősegítő új szakmák megszerzését teszik lehetővé."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.223"
+        tools:layout_editor_absoluteX="0dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

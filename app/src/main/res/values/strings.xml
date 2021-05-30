@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Party Managment API</string>
+    <string name="beiratkozás">Beiratkozás</string>
+    <string name="admin_fel_let">Admin felület</string>
+    <string name="iskol_nkr_l">Iskolánkról</string>
+    <string name="married">Házasságban van?</string>
+    <string name="submit">Rögzít</string>
+    <string name="back">Vissza</string>
+    <string name="placeOfBirth">Születési hely</string>
+    <string name="familyName">Vezetéknév</string>
+    <string name="givenName">Keresztnév</string>
+    <string name="birthDate">Születési idő</string>
+    <string name="beirat">Beirat</string>
+    <string name="elutas_t">Elutasít</string>
+
+    <string-array name="gender_array">
+        <item>Férfi</item>
+        <item>Nő</item>
+        <item>Genderqueer</item>
+        <item>Semleges</item>
+        <item>MTF</item>
+        <item>FTM</item>
+        <item>Genderfluid</item>
+    </string-array>
+</resources>

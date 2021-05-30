@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58316965411",
+    "project_id": "partymanagment-d4bf7",
+    "storage_bucket": "partymanagment-d4bf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58316965411:android:b0da01c0488d327e719396",
+        "android_client_info": {
+          "package_name": "com.example.partymanagmentapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58316965411-0pludid99vnmumc7juhfs0as9ovnija1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADLKEIZadcCpQwO1GnVt5G13BfsXYT3hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58316965411-0pludid99vnmumc7juhfs0as9ovnija1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
